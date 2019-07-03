@@ -10,9 +10,9 @@ def link
   put "It's a Dangerous To Go Alone! Take This"
 end
 def any_phrase (phrase)
- phrase = "Do a Barrel Roll!"
-  puts phrase
+ puts "Do a Barrel Roll!"
 end
+
 
   
   
