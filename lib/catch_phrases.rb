@@ -9,8 +9,8 @@ def toadstool
   return "Thank You Mario! But Our Princess Is In Another Castle!"
 end
 def link
-  phrase = "It's a Dangerous To Go Alone! Take This"
-  return "It's a Dangerous To Go Alone! Take This"
+  phrase = "It's a Dangerous To Go Alone! Take This."
+  return "It's a Dangerous To Go Alone! Take This."
 puts phrase
 end
 def any_phrase(phrase)
